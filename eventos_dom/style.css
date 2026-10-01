@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+#caixa {
+    padding: 15px;
+    border: 1px solid #0be71d;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+
+.destaque {
+    background-color: white;
+    font-weight: bold;
+}
